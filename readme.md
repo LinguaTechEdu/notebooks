@@ -2,6 +2,20 @@
 
 By the end of this lesson you'll be able to write basic scripts and throw around official Python terms and ideas!
 
+## Study Tools
+Traditional study tools can be pretty indispensable. You should take your good study habits and apply them here so you can learn better. Here's some ideas.
+
+* Keep a notebook!
+* Use digital flashcards.
+* Save useful code snippets you find online.
+* Practice code challenges.
+
+__Resources for Practice__
+- [Python the Hard Way][1]: This is an extremely repetitive FREE book. And that's what makes it a fantastic learning tool.
+- 
+
+[1]: https://learnpythonthehardway.org/book/intro.html
+
 ## Using Jupyter
 
 To start the notebook:
