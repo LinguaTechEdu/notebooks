@@ -12,9 +12,10 @@ Traditional study tools can be pretty indispensable. You should take your good s
 
 __Resources for Practice__
 - [Python the Hard Way][1]: This is an extremely repetitive FREE book. And that's what makes it a fantastic learning tool.
-- 
+- [Python Fundamentals][2]: Great resource comes with all sample scripts that you can download and play with for yourself!
 
 [1]: https://learnpythonthehardway.org/book/intro.html
+[2]: https://newcircle.com/bookshelf/python_fundamentals_tutorial/index
 
 ## Using Jupyter
 
@@ -43,7 +44,7 @@ Important methods and functions:
 * set()
 * .sort()
 
-# Common Class Commands
+# Common Terminal Commands
 Windows: http://ss64.com/ps/
 Unix (Mac/Linux): http://ss64.com/bash/
 
