@@ -1,0 +1,402 @@
+[
+    {
+        "username": "mstephenson",
+        "name": "Stephanie Hawkins",
+        "sex": "F",
+        "address": "3367 Jay Loop Suite 592\nGarcialand, OR 16154",
+        "mail": "chad06@hotmail.com",
+        "birthdate": "1978-09-29"
+    },
+    {
+        "username": "charles89",
+        "name": "Hannah Jackson",
+        "sex": "F",
+        "address": "99446 Vargas Falls Apt. 399\nGreenland, ID 57078-7264",
+        "mail": "steelemichael@gmail.com",
+        "birthdate": "1984-08-10"
+    },
+    {
+        "username": "jacob09",
+        "name": "Kimberly Wilson",
+        "sex": "F",
+        "address": "02997 Anderson Expressway Suite 242\nLake Bobby, ID 23562-3398",
+        "mail": "nicholas72@hotmail.com",
+        "birthdate": "1998-03-06"
+    },
+    {
+        "username": "lawrencewells",
+        "name": "Chelsea Robles",
+        "sex": "F",
+        "address": "USNS Johnson\nFPO AP 58981",
+        "mail": "simpsonmichael@gmail.com",
+        "birthdate": "1986-09-29"
+    },
+    {
+        "username": "vargasjeffrey",
+        "name": "Tyler Mora",
+        "sex": "M",
+        "address": "21226 Roy Flat Apt. 997\nMcculloughburgh, NJ 48700",
+        "mail": "lauren96@yahoo.com",
+        "birthdate": "2005-09-11"
+    },
+    {
+        "username": "bramsey",
+        "name": "Kathleen Stewart",
+        "sex": "F",
+        "address": "37056 Christopher Groves\nHalltown, PW 44650",
+        "mail": "david77@hotmail.com",
+        "birthdate": "1984-12-31"
+    },
+    {
+        "username": "mullenashley",
+        "name": "Katherine Johnson",
+        "sex": "F",
+        "address": "5120 Roberts Crescent Suite 115\nTravisville, LA 36633-9761",
+        "mail": "mgarcia@gmail.com",
+        "birthdate": "1986-04-08"
+    },
+    {
+        "username": "zgriffin",
+        "name": "Tommy Alvarez",
+        "sex": "M",
+        "address": "13282 Smith Harbor\nStephaniemouth, OK 05402",
+        "mail": "sgraves@gmail.com",
+        "birthdate": "1985-07-22"
+    },
+    {
+        "username": "ashleyochoa",
+        "name": "Michelle Ramos",
+        "sex": "F",
+        "address": "38692 Daniel Mountains\nPetersonland, MA 27220-2521",
+        "mail": "tateshelly@hotmail.com",
+        "birthdate": "1975-12-07"
+    },
+    {
+        "username": "stacy17",
+        "name": "Kevin Hartman",
+        "sex": "M",
+        "address": "38637 King Wells\nWest Gabriellehaven, MH 97153-7146",
+        "mail": "janet04@yahoo.com",
+        "birthdate": "2000-01-29"
+    },
+    {
+        "username": "davidcobb",
+        "name": "Brandi Saunders",
+        "sex": "F",
+        "address": "8389 Lewis Prairie Apt. 693\nWilliamview, NH 73003-8411",
+        "mail": "bgonzales@gmail.com",
+        "birthdate": "2000-09-15"
+    },
+    {
+        "username": "hermanwilliam",
+        "name": "Tanya Dyer",
+        "sex": "F",
+        "address": "6080 Richard Meadows Suite 755\nSouth Brian, UT 43842",
+        "mail": "oscar40@hotmail.com",
+        "birthdate": "1981-10-11"
+    },
+    {
+        "username": "juan56",
+        "name": "Shannon Walter",
+        "sex": "F",
+        "address": "0437 Tina Knoll Apt. 389\nWhitneytown, WA 30489-8610",
+        "mail": "ecook@yahoo.com",
+        "birthdate": "1993-04-04"
+    },
+    {
+        "username": "danielhunt",
+        "name": "Brian Atkinson",
+        "sex": "M",
+        "address": "302 Bryan Locks Apt. 863\nAveryport, WV 88218-9236",
+        "mail": "mgraham@gmail.com",
+        "birthdate": "1981-11-10"
+    },
+    {
+        "username": "claytonpatel",
+        "name": "Lisa Wilson",
+        "sex": "F",
+        "address": "Unit 6319 Box 2232\nDPO AE 49913-5733",
+        "mail": "nbarnes@hotmail.com",
+        "birthdate": "2000-10-07"
+    },
+    {
+        "username": "jesseshaw",
+        "name": "Karen Simmons",
+        "sex": "F",
+        "address": "75429 Rice Walk\nEvansside, WV 69092-0064",
+        "mail": "qwhite@hotmail.com",
+        "birthdate": "1993-07-27"
+    },
+    {
+        "username": "reynoldsdevin",
+        "name": "Tamara Wiggins",
+        "sex": "F",
+        "address": "5369 Kevin Cliffs\nTimothytown, MD 26237-6915",
+        "mail": "jcraig@hotmail.com",
+        "birthdate": "2000-01-31"
+    },
+    {
+        "username": "gailbarnes",
+        "name": "Sheila Davis",
+        "sex": "F",
+        "address": "93743 Thomas Rue Suite 624\nPort Johnstad, GA 46869-6588",
+        "mail": "davistara@hotmail.com",
+        "birthdate": "1984-02-26"
+    },
+    {
+        "username": "ejohnson",
+        "name": "Bridget Robbins",
+        "sex": "F",
+        "address": "342 Delgado Dale Suite 424\nSouth Zoestad, KS 64208-6365",
+        "mail": "charles76@hotmail.com",
+        "birthdate": "1986-01-26"
+    },
+    {
+        "username": "yhernandez",
+        "name": "Jennifer Ward",
+        "sex": "F",
+        "address": "6498 Christine Street\nTeresafurt, TX 16237",
+        "mail": "xmcknight@gmail.com",
+        "birthdate": "1970-12-05"
+    },
+    {
+        "username": "jennifer40",
+        "name": "Shannon Jones",
+        "sex": "F",
+        "address": "Unit 1400 Box 8040\nDPO AE 54933",
+        "mail": "courtney53@yahoo.com",
+        "birthdate": "1982-11-17"
+    },
+    {
+        "username": "jasmine68",
+        "name": "Joshua Hernandez",
+        "sex": "M",
+        "address": "4555 Jose Stravenue Suite 552\nWarrenstad, FM 02788-6625",
+        "mail": "berrydaniel@gmail.com",
+        "birthdate": "1979-10-24"
+    },
+    {
+        "username": "courtneylane",
+        "name": "William Montgomery",
+        "sex": "M",
+        "address": "75300 Nathan Burgs Apt. 506\nLyonsfurt, MH 39506-9025",
+        "mail": "ifoster@yahoo.com",
+        "birthdate": "1998-09-16"
+    },
+    {
+        "username": "htorres",
+        "name": "Andrew Cook",
+        "sex": "M",
+        "address": "794 Tracy Circle Apt. 479\nMichaelchester, MS 54860-9293",
+        "mail": "thompsondiane@gmail.com",
+        "birthdate": "1975-03-13"
+    },
+    {
+        "username": "bhopkins",
+        "name": "Catherine Gutierrez",
+        "sex": "F",
+        "address": "432 Chelsea Bypass\nMartinezhaven, PW 42502",
+        "mail": "williejohnson@hotmail.com",
+        "birthdate": "2009-03-03"
+    },
+    {
+        "username": "kenneth09",
+        "name": "Brent King",
+        "sex": "M",
+        "address": "129 Heather Stravenue Suite 597\nSandraview, AR 33521-9481",
+        "mail": "joshua87@gmail.com",
+        "birthdate": "1994-02-01"
+    },
+    {
+        "username": "michaelpierce",
+        "name": "Debra Garcia",
+        "sex": "F",
+        "address": "398 Gail Drives\nSouth Kevinhaven, CT 79115-4993",
+        "mail": "gsmall@gmail.com",
+        "birthdate": "1993-10-08"
+    },
+    {
+        "username": "lucas17",
+        "name": "Anthony Carpenter",
+        "sex": "M",
+        "address": "91453 Melanie Branch Suite 970\nSalinasville, AS 16339-1219",
+        "mail": "chase92@yahoo.com",
+        "birthdate": "2000-09-24"
+    },
+    {
+        "username": "nmurillo",
+        "name": "Stacy Golden",
+        "sex": "F",
+        "address": "055 David Summit Apt. 713\nNew Tammyton, DC 51036",
+        "mail": "mweaver@yahoo.com",
+        "birthdate": "1996-01-26"
+    },
+    {
+        "username": "jessica06",
+        "name": "Jennifer Gutierrez",
+        "sex": "F",
+        "address": "100 Henson Causeway\nShawside, PR 93800",
+        "mail": "ashleymurillo@gmail.com",
+        "birthdate": "2001-11-04"
+    },
+    {
+        "username": "klinemark",
+        "name": "Melanie Rodriguez",
+        "sex": "F",
+        "address": "6031 Carol Trail\nMccallmouth, NC 13897-6482",
+        "mail": "adamsshelly@gmail.com",
+        "birthdate": "1970-07-17"
+    },
+    {
+        "username": "eboone",
+        "name": "Jessica Jackson DVM",
+        "sex": "F",
+        "address": "2351 Suzanne Mall\nCooperbury, VI 06522-4084",
+        "mail": "brandy77@yahoo.com",
+        "birthdate": "1994-07-09"
+    },
+    {
+        "username": "morrisjeremy",
+        "name": "Lisa Carter",
+        "sex": "F",
+        "address": "PSC 4245, Box 3576\nAPO AA 74720",
+        "mail": "ronald92@hotmail.com",
+        "birthdate": "1979-09-19"
+    },
+    {
+        "username": "crystalklein",
+        "name": "Jacqueline Bell",
+        "sex": "F",
+        "address": "837 Hamilton Groves\nDerekfort, NV 01977",
+        "mail": "jaredfoster@yahoo.com",
+        "birthdate": "1972-09-30"
+    },
+    {
+        "username": "marissawhitehead",
+        "name": "Angela Kelly",
+        "sex": "F",
+        "address": "Unit 3290 Box 6684\nDPO AP 77814-5485",
+        "mail": "michele79@hotmail.com",
+        "birthdate": "1994-08-23"
+    },
+    {
+        "username": "smithmark",
+        "name": "Angela Wagner",
+        "sex": "F",
+        "address": "5607 Ashley Mill Suite 557\nSarahmouth, IL 82207",
+        "mail": "wilsonerin@gmail.com",
+        "birthdate": "1971-10-16"
+    },
+    {
+        "username": "paige63",
+        "name": "Sergio Butler",
+        "sex": "M",
+        "address": "672 Perez Hill Suite 627\nLake Jasmine, MD 87913",
+        "mail": "myerstina@hotmail.com",
+        "birthdate": "1990-08-17"
+    },
+    {
+        "username": "briannanguyen",
+        "name": "John Nguyen",
+        "sex": "M",
+        "address": "67321 Joseph Hills Suite 008\nWilliamtown, ME 78828",
+        "mail": "tsingh@yahoo.com",
+        "birthdate": "1988-11-20"
+    },
+    {
+        "username": "timothy01",
+        "name": "Sarah Gardner",
+        "sex": "F",
+        "address": "0607 Mariah Isle\nJacquelineville, HI 43421-1833",
+        "mail": "linda26@hotmail.com",
+        "birthdate": "1972-05-20"
+    },
+    {
+        "username": "jennifer50",
+        "name": "Daniel Jackson",
+        "sex": "M",
+        "address": "60067 Craig Greens Suite 702\nJonesburgh, NM 89811-4502",
+        "mail": "wrightsean@hotmail.com",
+        "birthdate": "1981-01-15"
+    },
+    {
+        "username": "ryan78",
+        "name": "Darlene Griffith",
+        "sex": "F",
+        "address": "Unit 3281 Box 6481\nDPO AE 46763",
+        "mail": "jose76@yahoo.com",
+        "birthdate": "1984-04-27"
+    },
+    {
+        "username": "donaldmccoy",
+        "name": "Jessica Walters",
+        "sex": "F",
+        "address": "476 Hale Path\nLake Andrewmouth, WA 06791",
+        "mail": "fmooney@yahoo.com",
+        "birthdate": "1994-05-12"
+    },
+    {
+        "username": "moorejohn",
+        "name": "Jessica Tate",
+        "sex": "F",
+        "address": "50071 Mercer Ports Apt. 154\nDaltonberg, WI 78372-0692",
+        "mail": "daniel15@hotmail.com",
+        "birthdate": "2004-12-12"
+    },
+    {
+        "username": "michele06",
+        "name": "Heidi Bryant",
+        "sex": "F",
+        "address": "9669 Davis Station\nWest Johntown, NC 12272-5484",
+        "mail": "cobbjeanette@gmail.com",
+        "birthdate": "2007-09-02"
+    },
+    {
+        "username": "samanthajones",
+        "name": "Zachary Haley",
+        "sex": "M",
+        "address": "0507 Benton Trail\nWest Jason, IA 97051",
+        "mail": "yjones@hotmail.com",
+        "birthdate": "2002-01-28"
+    },
+    {
+        "username": "marshallpatrick",
+        "name": "Douglas Shannon",
+        "sex": "M",
+        "address": "108 Hernandez Throughway Suite 314\nBlairmouth, MS 22777-7402",
+        "mail": "brianpham@hotmail.com",
+        "birthdate": "1989-07-11"
+    },
+    {
+        "username": "cooperjohn",
+        "name": "Michelle Rowe",
+        "sex": "F",
+        "address": "7480 White Shoal\nVincentport, MI 01963-3674",
+        "mail": "sconley@yahoo.com",
+        "birthdate": "1975-12-15"
+    },
+    {
+        "username": "wross",
+        "name": "Jordan Peterson",
+        "sex": "F",
+        "address": "9624 Dean Grove\nCookstad, NC 77454-4583",
+        "mail": "sheryl81@hotmail.com",
+        "birthdate": "2008-05-22"
+    },
+    {
+        "username": "paulhill",
+        "name": "Douglas Palmer",
+        "sex": "M",
+        "address": "72407 Sullivan Mews\nLake Deborah, AS 97822",
+        "mail": "amyhickman@yahoo.com",
+        "birthdate": "1971-01-17"
+    },
+    {
+        "username": "chadvazquez",
+        "name": "Stephanie May",
+        "sex": "F",
+        "address": "PSC 7126, Box 3077\nAPO AE 61802",
+        "mail": "kevin22@yahoo.com",
+        "birthdate": "2002-06-21"
+    }
+]

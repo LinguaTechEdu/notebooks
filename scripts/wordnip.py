@@ -9,7 +9,13 @@ Wordnip Object
 This is a demonstration for python beginners how the general nature of modules 
 and object oriented programming.
 
-This library contains functions for manipulating large lists of words. 
+This library contains functions for manipulating large lists of words. To use:
+    - Create a new instance of Wordnip with a list() of words
+    - Or you can use a file object:
+
+    with open('../text/sowpods.txt') as words:
+        w = Wordnip(words.read().split('\n'))
+        print(w.get_letter('Z'))
 """
 
 

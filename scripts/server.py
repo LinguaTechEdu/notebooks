@@ -10,7 +10,7 @@ import socket
 import threading
 
 # The address and port for our server
-bind_ip = "0.0.0.0"
+bind_ip = "localhost"
 bind_port = 9999
 
 # The server (socket) is assigned the address
@@ -21,7 +21,7 @@ server.bind((bind_ip, bind_port))
 server.listen(5)
 
 # A message to print to console to confirm that the server is running.
-print"[*] Listening on %s:%d" % (bind_ip, bind_port)
+print "[*] Listening on %s:%d" % (bind_ip, bind_port)
 
 def handle_client(client_socket):
     """Get client messages and send acknowledgement of receipt."""
